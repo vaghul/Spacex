@@ -1,8 +1,9 @@
 ## Notes
 
-This application uses the https://spacex.land/ an Grapql based api consumption. The application consits of
-Home screen ![Home screen](./ScreenShots/Home.png)
-Detail screen ![Detail screen](./ScreenShots/Details.png)
+This application uses the https://spacex.land/ an Grapql based api consumption. The application consits of Home screen and Details
+
+[<img src="./ScreenShots/Home.png"  height="250"/>](Home.png)
+[<img src="./ScreenShots/Details.png"  height="250"/>](Details.png)
 
 ### Date
 
