@@ -1,0 +1,14 @@
+/* 
+  Locale-en.strings
+  SpaceX
+
+  Created by Vaghula Krishnan on 2021-12-06.
+  
+*/
+
+"general.error" = "Error";
+"general.close" = "Close";
+"general.okay" = "Okay";
+
+"home.title" = "SpaceX Launches";
+"home.launchIn" = "Launched in";

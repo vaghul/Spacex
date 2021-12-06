@@ -1,0 +1,36 @@
+query launch($launchId:  ID!) {
+  launch(id: $launchId) {
+                details
+                id
+                launch_date_unix
+                launch_site {
+                        site_name
+                        site_name_long
+                        site_id
+                }
+                launch_year
+                launch_success
+                links {
+                        flickr_images
+                        article_link
+                        video_link
+                        wikipedia
+                        mission_patch
+                }
+                mission_id
+                mission_name
+                rocket {
+                        rocket {
+                                company
+                                cost_per_launch
+                                country
+                                description
+                                name
+                                type
+                                wikipedia
+                        }
+                        rocket_type
+                        rocket_name
+                }
+        }
+}

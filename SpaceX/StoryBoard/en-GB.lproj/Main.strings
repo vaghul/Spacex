@@ -1,0 +1,16 @@
+
+/* Class = "UILabel"; text = "Mission Name"; ObjectID = "Ceg-P0-yQ9"; */
+"Ceg-P0-yQ9.text" = "Mission Name";
+
+/* Class = "UILabel"; text = "Launched At"; ObjectID = "gHS-82-uk1"; */
+"gHS-82-uk1.text" = "Launched At";
+
+/* Class = "UILabel"; text = "Loading Launches"; ObjectID = "k1F-m7-ddf"; */
+"k1F-m7-ddf.text" = "Loading Launches";
+
+
+
+
+
+"general.error" = "Error";
+"home.title" = "SpaceX Launces";
