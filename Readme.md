@@ -63,3 +63,6 @@ SqlLite - Used for caching and persisting data for offline mode
 3. Deeplinking is enabled as URL schemes. Type the following in safari "spacex://launch=1" The launch param will accept any number value and open the related details screen
 
 ### Other information about your submission that you feel it's important that we know.
+
+The Green/Red Dot on the home screen depicts the launch success
+
